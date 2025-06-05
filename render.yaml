@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: salon-profit-calculator
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py
+    autoDeploy: true

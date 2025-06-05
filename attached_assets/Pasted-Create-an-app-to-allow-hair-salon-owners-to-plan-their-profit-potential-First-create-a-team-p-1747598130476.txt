@@ -1,0 +1,56 @@
+Create an app to allow hair salon owners to plan their profit potential. 
+
+
+First create a team page:
+here we input the likely sales of any number of potential stylists. For example if we estimate we will have three stylist generating £1500 in in service sales – they will collectively generate £4500 in total salon sales.
+
+If the salon also sell retail products – at 10% - this would be £450 in retail sales – so the total sales for the salon would be £4950
+
+
+We then need to input the fixed costs 
+the user can input their own fixed costs – example of fixed costs would typically include 
+Rent
+Rates, Refuse & Bid
+Water & sewerage
+R & R
+Utilities
+Telephone
+Insurance
+Cleaning, laundry etc
+Card fees
+Stationery & printing
+Advertising budget
+PR & promotions budget
+Sundries
+Legal, prof & accountancy
+Bank charges
+Other 1 
+Other 2
+
+
+
+
+We would then add in the variable costs
+These are the costs directly related to the sales turnover 
+
+These would typically include:
+Wages / Salaries ( Excluding retail commission) – this would be the salaries paid to team related to the service sales.
+
+Retail Commission. – this would be the commission paid to team members based on the retail products they sell to their clients.  
+
+Overall Wage % including retail _ this would be the total earnings paid to the team based on their salaries related to the service sales PLUS the commission paid to team members based on the retail products they sell to their clients.  
+
+
+
+Professional Stock – this would be the stock that is used by the salon to perform its services. 
+
+Retail Stock – this would be the stock purchased by the salon in order to resell to its clients
+
+Royalties / Franchise Fee – this would typically be a percentage of turnover paid to a parent company 
+
+The user should have the ability to change these items 
+For example if the user enters a “Professional Stock” of 8% - they can see the impact on the profit compared to a “Professional Stock” of 15% 
+
+
+
+

@@ -1,0 +1,67 @@
+{
+  "Wpark": {
+    "description": "",
+    "timestamp": "2025-05-26 23:47",
+    "stylist_data": [
+      {
+        "name": "Yesmin",
+        "sales": 2150,
+        "guarantee": 421
+      }
+    ],
+    "retail_percentage": 0.0,
+    "trainee_data": [
+      {
+        "name": "Trainee 1",
+        "wage": 0
+      }
+    ],
+    "receptionist_data": [
+      {
+        "name": "Reception 1",
+        "wage": 0
+      }
+    ],
+    "salary_settings": {
+      "service_commission_percentage": 0.0,
+      "retail_commission_percentage": 0.0,
+      "national_insurance_percentage": 0.0,
+      "pension_contribution_percentage": 0.0
+    },
+    "fixed_costs": {
+      "Rent": 4177,
+      "Rates, Refuse & Bid": 0,
+      "Water & sewerage": 0,
+      "R & R": 0,
+      "Utilities": 0,
+      "Telephone": 0,
+      "Insurance": 0,
+      "Cleaning, laundry etc": 0,
+      "Card fees": 0,
+      "Stationery & printing": 0,
+      "Advertising budget": 0,
+      "PR & promotions budget": 0,
+      "Sundries": 0,
+      "Legal, prof & accountancy": 0,
+      "Bank charges": 0,
+      "Other 1": 0,
+      "Other 2": 0
+    },
+    "variable_costs_percentages": {
+      "Wages/Salaries (excluding retail commission)": 19.581395348837212,
+      "Retail Commission": 0.0,
+      "Professional Stock": 0.0,
+      "Retail Stock": 0.0,
+      "Royalties/Franchise Fee": 0.0
+    },
+    "metrics": {
+      "monthly_service_sales": 9316.666666666666,
+      "monthly_retail_sales": 0.0,
+      "monthly_total_sales": 9316.666666666666,
+      "monthly_fixed_costs": 4177,
+      "monthly_variable_costs": 1824.3333333333335,
+      "monthly_profit": 3315.3333333333326,
+      "profit_margin": 35.58497316636851
+    }
+  }
+}

@@ -6,3 +6,4 @@ xlsxwriter
 bcrypt
 sqlalchemy
 python-dotenv
+psycopg2-binary

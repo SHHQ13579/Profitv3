@@ -1,4 +1,4 @@
-fimport os
+import os
 import json
 import bcrypt
 from sqlalchemy import create_engine, Column, Integer, String, Text, DateTime, Float, Boolean
